@@ -3,7 +3,7 @@
 
 A Jupyter Notebook to visualize a simple sorting algorithm for one of my coding courses.
 
-## Describtion
+## Description
 The Notebook generates a 2-dimensional list of random numbers which are then sorted going from small to large numbers. To visualize the results, a colour is assigned to each number.
 
 ## How to get in Touch
