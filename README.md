@@ -1,4 +1,5 @@
 # Simple Sorting Algorithm
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fdschmidt/SimpleSortingAlgorithm/master)
 
 A Jupyter Notebook to visualize a simple sorting algorithm for one of my coding courses.
 
